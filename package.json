@@ -1,0 +1,19 @@
+{
+    "name": "ekit-cross-site",
+    "version": "0.0.1",
+    "description": "ekit package, support cross site manager",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/henrytao-me/ekit-cross-site.git"
+    },
+    "keywords": ["ekit", "cross", "site", "manager", "express", "app"],
+    "author": "Henry Tao",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/henrytao-me/ekit-cross-site/issues"
+    }
+}
